@@ -17,7 +17,7 @@ git add 파일명(예 index.html)
 
 git commit -m "수정 내용 간단 메모"
 
-git push 깃허브에 
+git push 깃허브에 저장
 
 git status 현재 상태
 
