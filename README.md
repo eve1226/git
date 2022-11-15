@@ -15,7 +15,9 @@ git add . 현재폴더 모든파일 추가
 
 git add 파일명(예 index.html)
 
-git commit -m '수정 내용 간단 메모'
+git commit -m "수정 내용 간단 메모"
+
+git push 깃허브에 
 
 git status 현재 상태
 
